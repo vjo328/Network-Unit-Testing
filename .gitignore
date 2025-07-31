@@ -1,0 +1,17 @@
+.idea/
+venv/
+.venv/
+pytest_nuts.egg-info/
+__pycache__
+.vscode/
+docs/build/
+inventory/
+nr-config.yaml
+.pytest_cache/
+.tox/
+
+test-reports/
+.coverage
+
+# ignore dists
+dist/
